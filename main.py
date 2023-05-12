@@ -160,3 +160,18 @@ print(element_set,"\n\n\n")
 
 
 
+
+
+# IV. Création d'un dictionnaire de 10 éléments de type chaîne de caractères
+print("III. Création d'un dictionnaire de 10 éléments de type chaîne de caractères \n ")
+element_dict={"nom":"Kagabo",
+              "prenom":"Jean",
+              "age":"28",
+              "sexe":"M",
+              "proffession":"Medecin",
+              "telephone":"78235623",
+              "matricule":"15645",
+              "nationalite":"Burundaise",
+              "nom du pere":"Salvator",
+              "nom de la mere":"Claire"
+              }
