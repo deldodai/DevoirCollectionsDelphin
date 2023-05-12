@@ -213,5 +213,9 @@ print("7. Ajout un nouvel élément")
 element_dict["Enfants"]="Aucun"
 print(element_dict)
 
+#8. Créer une copie du dictionnaire      
+print("8. Création d'une copie du dictionnaire")
+element_dict_copy=element_dict.copy()
+print(element_dict_copy)
 
 
