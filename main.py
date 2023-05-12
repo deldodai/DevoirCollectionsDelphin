@@ -82,3 +82,11 @@ print(" 11. Suppresion de la liste \n\n\n")
 del element_list
 
 
+
+
+
+
+
+# II. Creation d'un tuple
+print("II. Création d'une tuple de 10 éléments de type entier \n ")
+element_tuple=(10,23,4,5,76,8,7,95,4,8)
