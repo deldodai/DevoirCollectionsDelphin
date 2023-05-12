@@ -147,3 +147,11 @@ element_set={"lion","jaguar","panthere","Leopart","guepar","puma","hyene","croco
 #1. Afficher le set
 print("Affichage d'un set:")
 print(element_set)
+
+#2. Ajouter un élément
+print("Ajout d'un set:")
+element_set.add("aigle")
+print(element_set)
+
+
+
