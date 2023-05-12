@@ -183,3 +183,7 @@ print(element_dict)
 # 2. Affichage des clés
 print("2. Affichage des clés")
 print(element_dict.keys())
+
+# 3. Affichage des valeurs
+print("3. Affichage des valeurs")
+print(element_dict.values())
