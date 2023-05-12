@@ -132,5 +132,8 @@ element_tuple_to_list=list(element_tuple)
 element_tuple_to_list.insert(3,to_insert)
 element_tuple=tuple(element_tuple_to_list)
 
+# 7. Affichage de la nouvelle tuple
+print("7. Affichage de la nouvelle tuple")
+print(element_tuple,"\n\n\n")
 
 
