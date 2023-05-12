@@ -200,3 +200,13 @@ print("5. Supprimer l'élément à la clé numéro 2")
 del element_dict["prenom"]
 print(element_dict)
 
+#6. Afficher l'élément de la clé numéro 5
+print("6. Afficher l'élément de la clé numéro 5")
+a=0
+for i in element_dict.values():
+    if a==4:
+        print(i)
+    a=a+1
+
+
+
