@@ -109,5 +109,15 @@ print (counter)
 print("3. Affichage de l'element numero 5")
 print(element_tuple[4])
 
+# 4. Ordonner le tuple
+print(element_tuple)
+print("4. Ordonner le tuple")
+element_tuple_to_list=list(element_tuple)
+element_tuple_to_list.sort()
+element_tuple=tuple(element_tuple_to_list)
+print(element_tuple)
+
+
+
 
 
