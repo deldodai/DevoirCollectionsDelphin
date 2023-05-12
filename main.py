@@ -76,3 +76,9 @@ print("10. Vider la liste")
 element_list.clear()
 print(element_list)
 
+
+# 11. Suppresion de la liste
+print(" 11. Suppresion de la liste \n\n\n")
+del element_list
+
+
