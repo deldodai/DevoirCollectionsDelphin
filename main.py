@@ -208,5 +208,10 @@ for i in element_dict.values():
         print(i)
     a=a+1
 
+#7. Ajouter un nouvel élément            
+print("7. Ajout un nouvel élément")
+element_dict["Enfants"]="Aucun"
+print(element_dict)
+
 
 
