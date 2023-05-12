@@ -20,3 +20,16 @@ for i in element_list:
 #2. Afficher le contenu numero 5 de la liste
 print("2. Afficher le contenu numero 5 de la liste")
 print(element_list[5])
+
+
+#3. création d'une nouvelle liste et insertion des elements contenant la lettre 'a'
+print("3. création d'une nouvelle liste et insertion des elements contenant la lettre 'a'")
+new_list=[]
+for i in element_list:
+    b=[]
+    b=list(i)
+    ela='a'
+    if ela in b:
+        new_list.append(i)
+print("liste des elements contenant la lettre 'a'")
+print(new_list)
