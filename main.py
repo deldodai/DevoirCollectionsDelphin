@@ -53,3 +53,8 @@ print(element_list)
 print("6. Suppression de l'element numero 3")
 del element_list[2]
 print(element_list)
+
+# 7. suppression de l'element à l' index numero 2
+print(" 7. suppression de l'element à l' index numero 2")
+element_list.pop(1)
+print(element_list)
