@@ -58,3 +58,9 @@ print(element_list)
 print(" 7. suppression de l'element à l' index numero 2")
 element_list.pop(1)
 print(element_list)
+
+
+# 8. Odonner la liste
+print("8. Odonner la liste")
+element_list.sort()
+print(element_list)
