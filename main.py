@@ -47,3 +47,9 @@ element_to_insert_at_index_2="Mitsubishi"
 element_list.insert(2,element_to_insert_at_index_2)
 print(element_list)
 
+# 6. Suppression de l'element numero 3
+
+print(element_list)
+print("6. Suppression de l'element numero 3")
+del element_list[2]
+print(element_list)
