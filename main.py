@@ -117,7 +117,14 @@ element_tuple_to_list.sort()
 element_tuple=tuple(element_tuple_to_list)
 print(element_tuple)
 
+# 5. Ajouter un element à la fin du tuple
 
+print("5. Ajouter un element à la fin du tuple")
+to_add=90
+element_tuple_to_list=list(element_tuple)
+element_tuple_to_list.append(to_add)
+element_tuple=tuple(element_tuple_to_list)
+print(element_tuple)
 
 
 
