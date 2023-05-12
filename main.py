@@ -179,3 +179,7 @@ element_dict={"nom":"Kagabo",
 # 1. Affichage du dictionaire
 print("1. Affichage du dictionaire")
 print(element_dict)
+
+# 2. Affichage des clés
+print("2. Affichage des clés")
+print(element_dict.keys())
