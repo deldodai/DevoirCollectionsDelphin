@@ -175,3 +175,7 @@ element_dict={"nom":"Kagabo",
               "nom du pere":"Salvator",
               "nom de la mere":"Claire"
               }
+
+# 1. Affichage du dictionaire
+print("1. Affichage du dictionaire")
+print(element_dict)
