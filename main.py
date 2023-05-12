@@ -16,3 +16,7 @@ element_list=[
 print("1. Affichage des elements de la liste")
 for i in element_list:
     print(i)
+    
+#2. Afficher le contenu numero 5 de la liste
+print("2. Afficher le contenu numero 5 de la liste")
+print(element_list[5])
