@@ -11,3 +11,8 @@ element_list=[
     "Citroen",
     "Toyota",
     "Opel"]
+
+# 1. Affichage des elements de la liste
+print("1. Affichage des elements de la liste")
+for i in element_list:
+    print(i)
