@@ -104,3 +104,10 @@ for i in element_tuple:
     if i==3:
         counter=counter+1
 print (counter)
+
+# 3. Affichage de l'element numero 5
+print("3. Affichage de l'element numero 5")
+print(element_tuple[4])
+
+
+
