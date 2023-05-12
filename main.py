@@ -153,5 +153,10 @@ print("Ajout d'un set:")
 element_set.add("aigle")
 print(element_set)
 
+#4. Supprimer le set
+print("Suppression du set:")
+element_set.clear()
+print(element_set,"\n\n\n")
+
 
 
