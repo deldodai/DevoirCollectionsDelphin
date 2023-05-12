@@ -97,3 +97,10 @@ print("1. Affichage des elements du tuple")
 for i in element_tuple:
     print(i)
 
+#2 . Affichage du nombre de fois ou la valeur 3 apparait
+print("2 . Affichage du nombre de fois ou la valeur 3 apparait")
+counter=0
+for i in element_tuple:
+    if i==3:
+        counter=counter+1
+print (counter)
