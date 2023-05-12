@@ -40,3 +40,10 @@ element_to_add="Chevrolet"
 element_list.append(element_to_add)
 print(element_list)
 
+# 5. ajout d'un element à l' index numero 2
+
+print("5. ajout d'un element à l' index numero 2")
+element_to_insert_at_index_2="Mitsubishi"
+element_list.insert(2,element_to_insert_at_index_2)
+print(element_list)
+
