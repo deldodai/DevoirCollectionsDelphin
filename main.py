@@ -126,5 +126,11 @@ element_tuple_to_list.append(to_add)
 element_tuple=tuple(element_tuple_to_list)
 print(element_tuple)
 
+# 6. Ajouter un élément à l’index numéro 3
+to_insert=41
+element_tuple_to_list=list(element_tuple)
+element_tuple_to_list.insert(3,to_insert)
+element_tuple=tuple(element_tuple_to_list)
+
 
 
