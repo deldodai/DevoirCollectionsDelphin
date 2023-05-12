@@ -33,3 +33,10 @@ for i in element_list:
         new_list.append(i)
 print("liste des elements contenant la lettre 'a'")
 print(new_list)
+
+# 4. ajout d'un element à la fin de la liste
+print("4. ajout d'un element à la fin de la liste")
+element_to_add="Chevrolet"
+element_list.append(element_to_add)
+print(element_list)
+
