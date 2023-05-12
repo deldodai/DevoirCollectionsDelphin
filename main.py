@@ -64,3 +64,8 @@ print(element_list)
 print("8. Odonner la liste")
 element_list.sort()
 print(element_list)
+
+# 9. Affichage de la liste dans le sens inverse
+print("9. Affichage de la liste dans le sens inverse")
+element_list.reverse()
+print(element_list)
