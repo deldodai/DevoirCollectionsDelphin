@@ -137,3 +137,10 @@ print("7. Affichage de la nouvelle tuple")
 print(element_tuple,"\n\n\n")
 
 
+
+
+
+#III. Création d'un set de 10 éléments de type chaîne de caractères
+print("III. Création d'un set de 10 éléments de type chaîne de caractères \n ")
+element_set={"lion","jaguar","panthere","Leopart","guepar","puma","hyene","crocodile","requin","orque"}
+
