@@ -187,3 +187,10 @@ print(element_dict.keys())
 # 3. Affichage des valeurs
 print("3. Affichage des valeurs")
 print(element_dict.values())
+
+#4. Afficher les clés et les valeurs sous le format : Clé : Valeur
+print("4. Afficher les clés et les valeurs sous le format : Clé : Valeur")
+for value,key in element_dict.items():
+    print(f"{key} : {value}")  
+
+
