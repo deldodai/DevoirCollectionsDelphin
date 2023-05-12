@@ -194,3 +194,9 @@ for value,key in element_dict.items():
     print(f"{key} : {value}")  
 
 
+#5. Supprimer l'élément à la clé numéro 2
+print(element_dict)
+print("5. Supprimer l'élément à la clé numéro 2")
+del element_dict["prenom"]
+print(element_dict)
+
