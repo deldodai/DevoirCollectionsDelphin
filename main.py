@@ -218,4 +218,7 @@ print("8. Création d'une copie du dictionnaire")
 element_dict_copy=element_dict.copy()
 print(element_dict_copy)
 
-
+#9. Afficher les nouveaux éléments       
+print("9. Affichage les nouveaux éléments")
+for value,key in element_dict_copy.items():
+    print(f"{key} : {value}")  
