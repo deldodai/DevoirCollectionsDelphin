@@ -69,3 +69,10 @@ print(element_list)
 print("9. Affichage de la liste dans le sens inverse")
 element_list.reverse()
 print(element_list)
+
+
+# 10. Vider la liste
+print("10. Vider la liste")
+element_list.clear()
+print(element_list)
+
